@@ -1,0 +1,29 @@
+== Bugs ==
+
+* If you add a custom amount of a card, then remove it entirely, then add it back in again, then you have the last amount of it that you had, rather than the default amount.  (e.g. "add sneak; add sneak; remove sneak; add sneak" gives you 2 Sneakdoor Betas instead of 1.)
+
+== Improvements ==
+
+* Ignore Draft when listing cycles
+* When adding a card, warn (as regular output, not error) if you're over your influence limit, but add it anyway
+* Fix word wrapping so it doesn't remove line breaks, it only adds them (see e.g. "de labe")
+* Fix consistency: always match either in functions or the main input loop
+* Make this object oriented where appropriate
+
+== Features ==
+
+* Group icebreakers separately to other programs (because NetrunnerDB does this, and I want to be as compatible with it as possible)
+* "Describe" should allow optional pluralisation, e.g. "describe sides", "describe factions", "describe runners", "describe shapers".  Revise documentation to e.g. {{{describe runners}}}
+* Order lists appropriately
+** Order packs within cycles by release order
+** Order cards within packs by official order
+** Alphabetise most things, including the commands
+* Simulate shuffling and drawing the entire deck
+
+* Reading and writing
+** Interpret a commandline argument as a file to open
+** Allow reading decks in Jinteki format
+** Allow reading decks in Octgn format
+
+* MWL
+** Implement warnings for the various MWLs

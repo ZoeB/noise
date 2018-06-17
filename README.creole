@@ -1,0 +1,118 @@
+= Noise =
+
+== Getting started ==
+
+Noise is a line-oriented Android: Netrunner deck builder.
+
+It needs Alsciende's Android: Netrunner card data to function:
+
+{{{
+git clone git@github.com:Alsciende/netrunner-cards-json.git
+}}}
+
+You can then run it with the following command:
+
+{{{
+./noise
+}}}
+
+It requires Python 3.
+
+== Shorthand ==
+
+When entering commands, you can shorten card names, as long as you're unambiguous.  For example, instead of {{{add Sneakdoor Beta}}}, you can simply type {{{add sneak}}}.  If the card you specify is ambiguous, then a list of matching cards will be displayed.  If the card you specify is an exact match, then partial matches are ignored.  For example, {{{describe core s}}} will list both core sets, whereas {{{describe core set}}}, being an exact match, will list the original core set's cards.
+
+The card you specify only needs to be unambiguous amongst relevant ones, given the context of the command, so {{{id blu}}} will make you Blue Sun, the only identity with "blu" in it, even though there's also a non-identity card with those letters, Blue Level Clearance.  Similarly, removing a card only has to be unambiguous out of the cards already in your deck.
+
+The same way of shortening names also applies to everything else, from cycles to commands themselves.  For example, {{{describe Genesis}}} can be shortened to {{{de genes}}}.
+
+== Available commands ==
+
+=== add ===
+
+Add a card to your deck.  (Make sure you choose an {{{id}}} first.)  You can optionally specify a quantity, otherwise the amount available in the pack is added.  You cannot add more than the allowed amount.
+
+{{{
+add inside job
+add 3 sneak
+}}}
+
+=== describe ===
+
+List relevant items, or describe one item in detail.  You can list cycles, (prebuilt) decks, and sides.  You can describe cards, packs, cycles, factions, sides, and decks.
+
+{{{
+describe cycles
+describe genesis
+describe what lies
+describe whizzard
+describe sides
+describe runner
+describe anarch
+describe quet
+}}}
+
+=== files ===
+
+List the deck files in your ./decks directory.  By default, this is where deck files are loaded from and saved to.
+
+=== help ===
+
+List available commands.
+
+=== id ===
+
+If you specify an ID, switch to it.  Otherwise, display your current ID.
+
+{{{
+id gab
+id
+}}}
+
+=== jinlist ===
+
+List all the cards in your deck, in a format you can paste into Jinteki.
+
+=== list ===
+
+List all the cards in your deck, grouped by type.
+
+=== name ===
+
+If you specify a new deck name, remember it.  Otherwise, display your deck's current name.  This name is saved in decklist files, and by default is also used as the filename.
+
+{{{
+name Frantic Knife Throwing
+name
+}}}
+
+=== purge ===
+
+Remove every card in your deck.
+
+=== quit ===
+
+Quit Noise.
+
+=== read ===
+
+Read a decklist file.  If no directory is specified, ./decks is used.  Extension .txt (plain text, compatible with NetrunnerDB) is supported.  If you don't specify a filename, .txt is automatically appended.
+
+=== remove ===
+
+Remove a card from your deck.  You can optionally specify a quantity, otherwise all copies of that card are removed.
+
+{{{
+remove inside job
+remove 1 sneak
+}}}
+
+=== use ===
+
+Use a prebuilt deck.  {{{describe decks}}} shows a list of available decks.
+
+{{{use 2015 World Champion Runner Deck}}}
+
+=== write ===
+
+Write a decklist file.  If no directory is specified, ./decks is used.  Extensions .txt (plain text, compatible with NetrunnerDB) and .jin (Jinteki pasteable) are supported.  If you don't specify a filename, .txt is automatically appended.
