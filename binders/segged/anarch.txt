@@ -1,0 +1,251 @@
+Page 1 (identity)
+
+	Noise: Hacker Extraordinaire
+	Whizzard: Master Gamer
+	Reina Roja: Freedom Fighter
+	Quetzal: Free Spirit
+	Edward Kim: Humanity's Hammer
+	MaxX: Maximum Punk Rock
+	Valencia Estevez: The Angel of Cayambe
+	Null: Whistleblower
+	Omar Keung: Conspiracy Theorist
+
+Page 2 (identity)
+
+	Alice Merchant: Clan Agitator
+	Reina Roja: Freedom Fighter
+	Freedom Khumalo: Crypto-Anarchist
+	Nathaniel "Gnat" Hall: One-of-a-Kind
+
+Page 3 (event)
+
+	Déjà Vu
+	Demolition Run
+	Stimhack
+	Vamp
+	Surge
+	Retrieval Run
+	Frame Job
+	Quest Completed
+	Singularity
+
+Page 4 (event)
+
+	Queen's Gambit
+	Cyber Threat
+	Scrubbed
+	Inject
+	Amped Up
+	I've Had Worse
+	Itinerant Protesters
+	Showing Off
+	Wanton Destruction
+
+Page 5 (event)
+
+	Day Job
+	Forked
+	Knifed
+	Spooned
+	Hacktivist Meeting
+	Immolation Script
+	Power to the People
+	Run Amok
+	Political Graffiti
+
+Page 6 (event)
+
+	Making an Entrance
+	The Noble Path
+	Fear the Masses
+	System Outage
+	Credit Crash
+	Rumor Mill
+	En Passant
+	Frantic Coding
+	Pushing the Envelope
+
+Page 7 (event)
+
+	Mars for Martians
+	Mining Accident
+	Demolition Run
+	Retrieval Run
+	Singularity
+	Stimhack
+	By Any Means
+	Glut Cipher
+	Contaminate
+
+Page 8 (event)
+
+	Guinea Pig
+
+Page 9 (hardware)
+
+	Cyberfeeder
+	Grimoire
+	Spinal Modem
+	Deep Red
+	Dyson Fractal Generator
+	Ekomind
+	Archives Interface
+	Chop Bot 3000
+	MemStrips
+
+Page 10 (hardware)
+
+	Vigil
+	Skulljack
+	Turntable
+	Ramujan-reliant 550 BMI
+	EMP Device
+	Obelus
+	Şifr
+	Maw
+	Severnius Stim Implant
+
+Page 11 (hardware)
+
+	Respirocytes
+	Cyberfeeder
+	Spinal Modem
+	Acacia
+	Friday Chip
+	Knobkierie
+	Zer0
+	Hippo
+	Patchwork
+
+Page 12 (program)
+
+	Corroder
+	Datasucker
+	Djinn
+	Medium
+	Mimic
+	Parasite
+	Wyrm
+	Yog.0
+	Imp
+
+Page 13 (program)
+
+	Morning Star
+	Nerve Agent
+	Disrupter
+	Force of Nature
+	Darwin
+	Pawn
+	Rook
+	Bishop
+	Scheherazade
+
+Page 14 (program)
+
+	Knight
+	Keyhole
+	Hemorrhage
+	Lamprey
+	D4v1d
+	BlacKat
+	Origami
+	Cerberus "Cuj.0" H3
+	Incubator
+
+Page 15 (program)
+
+	Ixodidae
+	Eater
+	Gravedigger
+	Hivemind
+	Progenitor
+	Clot
+	Faust
+	Trope
+	Surfer
+
+Page 16 (program)
+
+	Diwan
+	Aghora
+	Nfr
+	Paperclip
+	Black Orchestra
+	MKUltra
+	Sūnya
+	Berserker
+	Persephone
+
+Page 17 (program)
+
+	God of War
+	Darwin
+	Datasucker
+	Force of Nature
+	Imp
+	Hemorrhage
+	Mimic
+	Morning Star
+	Yusuf
+
+Page 18 (program)
+
+	Plague
+	eXer
+	Trypano
+	Musaazi
+	Cradle
+
+Page 19 (resource)
+
+	Ice Carver
+	Wyldside
+	Liberated Account
+	Joshua B.
+	Scrubber
+	Xanadu
+	Data Leak Reversal
+	Hard at Work
+	Activist Support
+
+Page 20 (resource)
+
+	Tallie Perrault
+	Duggar's
+	Fester
+	Human First
+	Investigative Journalism
+	Sacrificial Clone
+	Stim Dealer
+	Virus Breeding Ground
+	Paige Piper
+
+Page 21 (resource)
+
+	Adjusted Chronotype
+	Off-Campus Apartment
+	Chrome Parlor
+	Street Peddler
+	Spoilers
+	DDoS
+	Street Magic
+	Salsette Slums
+	Emptied Mind
+
+Page 22 (resource)
+
+	Bhagat
+	The Archivist
+	Clan Vengeance
+	Counter Surveillance
+	Jarogniew Mercs
+	Salvaged Vanadis Armory
+	Ice Carver
+	Liberated Account
+	Scrubber
+
+Page 23 (resource)
+
+	Xanadu
+	Crypt

@@ -1,0 +1,262 @@
+Page 1 (identity)
+
+	Kate "Mac" McCaffrey: Digital Tinker
+	Chaos Theory: Wünderkind
+	Rielle "Kit" Peddler: Transhuman
+	The Professor: Keeper of Knowledge
+	Exile: Streethawk
+	Nasir Meidan: Cyber Explorer
+	Hayley Kaplan: Universal Scholar
+	Jesminder Sareen: Girl Behind the Curtain
+	Ele "Smoke" Scovak: Cynosure of the Net
+
+Page 2 (identity)
+
+	Ayla "Bios" Rahim: Simulant Specialist
+	Chaos Theory: Wünderkind
+	Kabonesa Wu: Netspace Thrillseeker
+	Akiko Nisei: Head Case
+
+Page 3 (event)
+
+	Diesel
+	Modded
+	The Maker's Eye
+	Tinkering
+	Notoriety
+	Test Run
+	Quality Time
+	Indexing
+	Escher
+
+Page 4 (event)
+
+	Exploratory Romp
+	Freelance Coding Contract
+	Scavenge
+	Levy AR Lab Access
+	Eureka!
+	Power Nap
+	Social Engineering
+	Net Celebrity
+	Trade-In
+
+Page 5 (event)
+
+	Code Siphon
+	Game Day
+	Out of the Ashes
+	The Price of Freedom
+	Data Breach
+	Cold Read
+	Encore
+	System Seizure
+	Lean and Mean
+
+Page 6 (event)
+
+	Diana's Hunt
+	Reshape
+	Careful Planning
+	Deep Data Mining
+	Diesel
+	Indexing
+	Modded
+	Notoriety
+	Test Run
+
+Page 7 (event)
+
+	The Maker's Eye
+	Tinkering
+	Marathon
+	Because I Can
+	Compile
+
+Page 8 (hardware)
+
+	Akamatsu Mem Chip
+	Rabbit Hole
+	The Personal Touch
+	The Toolbox
+	Dinosaurus
+	Replicator
+	R&D Interface
+	Monolith
+	Feedback Filter
+
+Page 9 (hardware)
+
+	Clone Chip
+	Omni-drive
+	Lockpick
+	Record Reconstructor
+	LLDS Processor
+	Capstone
+	CyberSolutions Mem Chip
+	Astrolabe
+	Cybsoft MacroDrive
+
+Page 10 (hardware)
+
+	Comet
+	Net-Ready Eyes
+	Bookmark
+	Maya
+	NetChip
+	Mirror
+	Top Hat
+	Adjusted Matrix
+	Dedicated Processor
+
+Page 11 (hardware)
+
+	Daredevil
+	LLDS Memory Diamond
+	Ubax
+	Dinosaurus
+	Rabbit Hole
+	The Personal Touch
+	Cyberdelia
+	Gebrselassie
+	Flame-out
+
+Page 12 (hardware)
+
+	Mind's Eye
+
+Page 13 (program)
+
+	Battering Ram
+	Gordian Blade
+	Magnum Opus
+	Net Shield
+	Pipeline
+	ZU.13 Key Master
+	Snowball
+	Deus X
+	Creeper
+
+Page 14 (program)
+
+	Deep Thought
+	Atman
+	Cloak
+	Dagger
+	Chakana
+	Cyber-Cypher
+	Paricia
+	Self-modifying Code
+	Sahasrara
+
+Page 15 (program)
+
+	Inti
+	False Echo
+	Torch
+	Sharpshooter
+	Alpha
+	Omega
+	Paintbrush
+	Leprechaun
+	LLDS Energy Regulator
+
+Page 16 (program)
+
+	Refractor
+	Cerberus "Lady" H1
+	Collective Consciousness
+	Sage
+	Study Guide
+	Analog Dreamers
+	Chameleon
+	Hyperdriver
+	DaVinci
+
+Page 17 (program)
+
+	Panchatantra
+	Sadyojata
+	Brahman
+	Ankusa
+	Dai V
+	Houdini
+	Blackstone
+	Equivocation
+	Misdirection
+
+Page 18 (program)
+
+	Fawkes
+	Customized Secretary
+	Inversificator
+	Mass-Driver
+	Maven
+	Na'Not'K
+	Adept
+	Savant
+	Egret
+
+Page 19 (program)
+
+	Dhegdheer
+	Battering Ram
+	Gordian Blade
+	Magnum Opus
+	Pipeline
+	Upya
+	Takobi
+	Nyashia
+	Laamb
+
+Page 20 (program)
+
+	Engolo
+
+Page 21 (resource)
+
+	Aesop's Pawnshop
+	Sacrificial Construct
+	The Helpful AI
+	Personal Workshop
+	All-nighter
+	Professional Contacts
+	Borrowed Satellite
+	Ice Analyzer
+	Motivation
+
+Page 22 (resource)
+
+	Woman in the Red Dress
+	Order of Sol
+	Gene Conditioning Shoppe
+	Synthetic Blood
+	London Library
+	Tyson Observatory
+	Fan Site
+	Film Critic
+	Artist Colony
+
+Page 23 (resource)
+
+	Patron
+	Liberated Chela
+	Temple of the Liberated Mind
+	Algo Trading
+	Beth Kilrain-Chang
+	Net Mercur
+	Bio-Modeled Network
+	Network Exchange
+	Dummy Box
+
+Page 24 (resource)
+
+	Levy Advanced Research Lab
+	Laguna Velasco District
+	Aesop's Pawnshop
+	All-nighter
+	Sacrificial Construct
+	Kongamato
+	Gbahali
+	Reclaim
+	Psych Mike

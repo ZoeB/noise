@@ -1,0 +1,256 @@
+Page 1 (identity)
+
+	Weyland Consortium: Building a Better World
+	Weyland Consortium: Because We Built It
+	GRNDL: Power Unleashed
+	Blue Sun: Powering the Future
+	Argus Security: Protection Guaranteed
+	Gagarin Deep Space: Expanding the Horizon
+	Titan Transnational: Investing In Your Future
+	Weyland Consortium: Builder of Nations
+	Jemison Astronautics: Sacrifice. Audacity. Success.
+
+Page 2 (identity)
+
+	Skorpios Defense Systems: Persuasive Power
+	Weyland Consortium: Building a Better World
+	SSO Industries: Fueling Innovation
+	The Outfit: Family Owned and Operated
+
+Page 3 (agenda)
+
+	Hostile Takeover
+	Posted Bounty
+	Project Atlas
+	Government Contracts
+	Geothermal Fracking
+	The Cleaners
+	Vulcan Coverup
+	Superior Cyberwalls
+	Helium-3 Deposit
+
+Page 4 (agenda)
+
+	Firmware Updates
+	Glenn Station
+	Government Takeover
+	High-Risk Investment
+	Oaktown Renovation
+	Underway Renovation
+	Hollywood Renovation
+	New Construction
+	Crisis Management
+
+Page 5 (agenda)
+
+	Meteor Mining
+	Standoff
+	Armored Servers
+	Illicit Sales
+	Graft
+	Hostile Takeover
+	Project Atlas
+	The Cleaners
+	Armed Intimidation
+
+Page 6 (agenda)
+
+	City Works Project
+
+Page 7 (asset)
+
+	Security Subcontract
+	Dedicated Response Team
+	Elizabeth Mills
+	GRNDL Refinery
+	The Root
+	Sealed Vault
+	Executive Boot Camp
+	Constellation Protocol
+	Mark Yale
+
+Page 8 (asset)
+
+	Space Camp
+	The Board
+	Capital Investors
+	Student Loans
+	Corporate Town
+	Contract Killer
+	Worlds Plaza
+	Public Support
+	Mumbad Construction Co.
+
+Page 9 (asset)
+
+	Commercial Bankers Group
+	Mumbad City Hall
+	Executive Search Firm
+	Indian Union Stock Exchange
+	Zealous Judge
+	C.I. Fund
+	Chief Slee
+	Anson Rose
+	Quarantine System
+
+Page 10 (asset)
+
+	Clyde Van Rite
+	Open Forum
+	Illegal Arms Factory
+	Mr. Stone
+	Dedicated Response Team
+	Elizabeth Mills
+	GRNDL Refinery
+	Urban Renewal
+	Reconstruction Contract
+
+Page 11 (asset)
+
+	False Flag
+
+Page 12 (operation)
+
+	Aggressive Negotiation
+	Beanstalk Royalties
+	Scorched Earth
+	Shipment from Kaguya
+	Power Grid Overload
+	Commercialization
+	Oversight AI
+	Power Shutdown
+	Punitive Counterstrike
+
+Page 13 (operation)
+
+	Witness Tampering
+	Paywall Implementation
+	Reuse
+	Housekeeping
+	Patch
+	Traffic Accident
+	Back Channels
+	Dedication Ceremony
+	Consulting Visit
+
+Page 14 (operation)
+
+	Election Day
+	Subcontract
+	Stock Buy-Back
+	Liquidation
+	BOOM!
+	Door to Door
+	Sacrifice
+	Audacity
+	Red Planet Couriers
+
+Page 15 (operation)
+
+	Success
+	Transparency Initiative
+	Priority Construction
+	Hunter Seeker
+	Beanstalk Royalties
+	Punitive Counterstrike
+	Shipment from Kaguya
+	Wake Up Call
+	Economic Warfare
+
+Page 16 (operation)
+
+	Death and Taxes
+	Trojan Horse
+	High-Profile Target
+	Too Big to Fail
+
+Page 17 (ice)
+
+	Archer
+	Hadrian's Wall
+	Ice Wall
+	Shadow
+	Caduceus
+	Woodcutter
+	Tyrant
+	Salvage
+	Burke Bugs
+
+Page 18 (ice)
+
+	Swarm
+	Ireress
+	Curtain Wall
+	Hive
+	Taurus
+	Wendigo
+	Changeling
+	Lycan
+	Errand Boy
+
+Page 19 (ice)
+
+	Asteroid Belt
+	Wormhole
+	Nebula
+	Orion
+	Builder
+	Checkpoint
+	Fire Wall
+	Searchlight
+	Negotiator
+
+Page 20 (ice)
+
+	Meru Mati
+	Spiderweb
+	Tour Guide
+	Bailiff
+	Red Tape
+	Bulwark
+	Mausolus
+	Sapper
+	Veritas
+
+Page 21 (ice)
+
+	Watchtower
+	Battlement
+	Tithonium
+	Bloodletter
+	Colossus
+	Hailstorm
+	Hortum
+	Archer
+	Caduceus
+
+Page 22 (ice)
+
+	Hadrian's Wall
+	Hive
+	Ice Wall
+	Shadow
+	Oduduwa
+	Masvingo
+	Surveyor
+
+Page 23 (upgrade)
+
+	Research Station
+	Amazon Industrial Zone
+	Simone Diego
+	Off the Grid
+	Crisium Grid
+	Satellite Grid
+	The Twins
+	Expo Grid
+	Surat City Grid
+
+Page 24 (upgrade)
+
+	Bryan Stinson
+	Oberth Protocol
+	Fractal Threat Matrix
+	K. P. Lynn
+	Forced Connection
+	Overseer Matrix

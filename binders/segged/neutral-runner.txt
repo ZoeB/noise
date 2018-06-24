@@ -1,0 +1,119 @@
+Page 1 (event)
+
+	Infiltration
+	Sure Gamble
+	Kraken
+	Dirty Laundry
+	Blackmail
+	Lucky Find
+	Mass Install
+	Uninstall
+	Traffic Jam
+
+Page 2 (event)
+
+	Employee Strike
+	Windfall
+	Corporate Scandal
+	Populist Rally
+	"Freedom Through Equality"
+	Rebirth
+	Rigged Results
+	Deuces Wild
+	Injection Attack
+
+Page 3 (event)
+
+	Government Investigations
+	Interdiction
+	Peace in Our Time
+	Mad Dash
+	Build Script
+	Process Automation
+	Infiltration
+	Sure Gamble
+
+Page 4 (hardware)
+
+	Plascrete Carapace
+	Dyson Mem Chip
+	Prepaid VoicePAD
+	Q-Coherence Chip
+	Qianju PT
+	Brain Cage
+	Sports Hopper
+	Dyson Mem Chip
+
+Page 5 (program)
+
+	Crypsis
+	Overmind
+	Baba Yaga
+	Crypsis
+	RNG Key
+
+Page 6 (resource)
+
+	Access to Globalsec
+	Armitage Codebusting
+	Public Sympathy
+	Inside Man
+	Underworld Contact
+	Kati Jones
+	New Angeles City Hall
+	Daily Casts
+	Same Old Thing
+
+Page 7 (resource)
+
+	The Source
+	John Masanori
+	Raymond Flint
+	Starlight Crusade Funding
+	Oracle May
+	Donut Taganes
+	Eden Shard
+	Ghost Runner
+	Hades Shard
+
+Page 8 (resource)
+
+	Rachel Beckman
+	Angel Arena
+	Utopia Shard
+	Earthrise Hotel
+	Data Folding
+	Symmetrical Visage
+	Beach Party
+	Paparazzi
+	Wireless Net Pavilion
+
+Page 9 (resource)
+
+	Technical Writer
+	Chatterjee University
+	Akshara Sareen
+	Councilman
+	Bazaar
+	Guru Davinder
+	The Turning Wheel
+	First Responders
+	Citadel Sanctuary
+
+Page 10 (resource)
+
+	Dadiana Chacon
+	Bloo Moose
+	Corporate Defector
+	Officer Frank
+	Dean Lister
+	Biometric Spoofing
+	The Shadow Net
+	Armitage Codebusting
+	Underworld Contact
+
+Page 11 (resource)
+
+	Jackpot!
+	Kasi String
+	DJ Fenris

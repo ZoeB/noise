@@ -1,0 +1,156 @@
+Page 1 (agenda)
+
+	Priority Requisition
+	Private Security Force
+	Executive Retreat
+	False Lead
+	Corporate War
+	Gila Hands Arcology
+	Profiteering
+	Veterans Program
+	NAPD Contract
+
+Page 2 (agenda)
+
+	Eden Fragment
+	Chronos Project
+	Hades Fragment
+	Utopia Fragment
+	Vanity Project
+	The Future is Now
+	Global Food Initiative
+	Corporate Sales Team
+	Merger
+
+Page 3 (agenda)
+
+	Show of Force
+	Paper Trail
+	False Lead
+	Priority Requisition
+	Private Security Force
+	SSL Endorsement
+
+Page 4 (asset)
+
+	Melange Mining Corp.
+	PAD Campaign
+	Private Contracts
+	Levy University
+	Server Diagnostics
+	Plan B
+	Shattered Remains
+	Docklands Crackdown
+	Tech Startup
+
+Page 5 (asset)
+
+	Launch Campaign
+	Mumba Temple
+	Museum of History
+	PAD Factory
+	Sandburg
+	NASX
+	Whampoa Reclamation
+	Honeyfarm
+	Long-Term Investment
+
+Page 6 (asset)
+
+	Melange Mining Corp.
+	PAD Campaign
+	NGO Front
+	TechnoCo
+	Rashida Jaheem
+
+Page 7 (operation)
+
+	Hedge Fund
+	Freelancer
+	Foxfire
+	Cyberdex Trial
+	Restructure
+	Interns
+	Subliminal Messaging
+	Diversified Portfolio
+	Fast Track
+
+Page 8 (operation)
+
+	Bad Times
+	Lag Time
+	Snatch and Grab
+	Sub Boost
+	Localized Product Line
+	Financial Collapse
+	Scarcity of Resources
+	Best Defense
+	Preemptive Action
+
+Page 9 (operation)
+
+	Enforced Curfew
+	Mass Commercialization
+	Rover Algorithm
+	IPO
+	Hedge Fund
+	Distract the Masses
+
+Page 10 (ice)
+
+	Enigma
+	Hunter
+	Wall of Static
+	Dracō
+	Chimera
+	Bastion
+	Datapike
+	Grim
+	Paper Wall
+
+Page 11 (ice)
+
+	Quandary
+	Guard
+	Rainbow
+	Mother Goddess
+	Galahad
+	Lancelot
+	Merlin
+	Excalibur
+	Quicksand
+
+Page 12 (ice)
+
+	Assassin
+	Cobra
+	Vanilla
+	Macrophage
+	Tribunal
+	Self-Adapting Code Wall
+	Owl
+	Conundrum
+	Weir
+
+Page 13 (ice)
+
+	Enigma
+	Hunter
+	Wall of Static
+
+Page 14 (upgrade)
+
+	Will-o'-the-Wisp
+	Shell Corporation
+	Self-destruct
+	Dedicated Technician Team
+	Cyberdex Virus Suite
+	Breaker Bay Grid
+	Underway Grid
+	Mumbad Virtual Tour
+	Prisec
+
+Page 15 (upgrade)
+
+	Khondi Plaza
+	Signal Jamming
