@@ -2,24 +2,9 @@
 
 # Indexing (an Android: Netrunner card sorter)
 
+import argparse
 import json
 import os
-
-def flattenToList(multiDict, value, order=False):
-	if not order:
-		order = value
-
-	# Order...
-	multiDict = sorted(multiDict, key=lambda item: item[order])
-
-	# ...and extract
-	list = []
-
-	for entry in multiDict:
-		entryValue = entry[value]
-		list.append(entryValue)
-
-	return list
 
 def group(cards, attribute='type_code'):
 	groups = {}
@@ -41,51 +26,77 @@ def index(segregate=False):
 	cardsByFaction = group(cards, 'faction_code')
 
 	for faction, inFactionCards in cardsByFaction.items():
-		if segregate:
-			file = open('binders/segged/' + faction + '.txt', 'w+')
-		else:
-			file = open('binders/defragged/' + faction + '.txt', 'w+')
-
+		file = open('binders/' + faction + '.txt', 'w+')
 		cardsByType = group(inFactionCards, 'type_code')
-		sideOrder = inFactionCards[1]['side_code']
-		page = 0
-		cardNumber = 9
+		output = []
 
-		if sideOrder == 'runner':
-			types = ['identity', 'event', 'hardware', 'program', 'resource', 'apex', 'adam', 'sunny-lebeau']
-		elif sideOrder == 'corp':
-			types = ['identity', 'agenda', 'asset', 'operation', 'ice', 'upgrade']
-		else:
-			continue
+		output.append(indexBySideAndType(cardsByType, segregate, 'runner_mini', miniFactions))
+		output.append(indexBySideAndType(cardsByType, segregate, 'runner', runnerTypes))
+		output.append(indexBySideAndType(cardsByType, segregate, 'corp', corpTypes))
 
-		for type in types:
-			for typeMatch, inTypeCards in cardsByType.items():
-				if typeMatch != type:
-					continue
+		output = filter(None, output)
+		file.write(str.join('\n', output))
+		file.close()
 
-				inTypeCards = flattenToList(inTypeCards, 'title', 'code')
+def indexBySideAndType(cardsByType, segregate, side, types):
+	output = ''
+	page = 0
+	cardNumber = columns * rows
 
-				if segregate:
-					cardNumber = 9
+	for type in types:
+		for typeMatch, inTypeCards in cardsByType.items():
+			if typeMatch != type:
+				continue
 
-				for cardName in inTypeCards:
+			inTypeCards = [card for card in inTypeCards if card['side_code'] == side]
+			inTypeCards = sorted(inTypeCards, key=lambda item: item['code']) # Sort cards by their code
+
+			if segregate:
+				cardNumber = columns * rows
+
+			for card in inTypeCards:
+				while card['quantity'] > 0:
 					cardNumber = cardNumber + 1
 
-					if cardNumber == 10:
+					if cardNumber == columns * rows + 1:
 						cardNumber = 1
 						page = page + 1
 
 						if page != 1:
-							file.write('\n')
+							output = output + '\n'
 
 						if segregate:
-							file.write('Page ' + str(page) + ' (' + type + ')\n\n')
+							output = output + 'Page ' + str(page) + ' (' + type + ')\n\n'
 						else:
-							file.write('Page ' + str(page) + '\n\n')
+							output = output + 'Page ' + str(page) + '\n\n'
 
-					file.write('\t' + cardName + '\n')
+					output = output + '\t' + card['title'] + '\n'
+					card['quantity'] -= depth
 
-		file.close()
+	return output
+
+parser = argparse.ArgumentParser()
+parser.add_argument('-2', '--revised-core', action='store_true', help='include revised core set cards')
+parser.add_argument('-c', '--col', default=3, help='number of columns in a page')
+parser.add_argument('-d', '--depth', default=3, help='number of cards each cell can store')
+parser.add_argument('-m', '--mini', action='store_true', help='merge together neutral runner and mini factions')
+parser.add_argument('-n', '--neutral', action='store_true', help='merge together neutral runner and neutral corp factions')
+parser.add_argument('-r', '--row', default=3, help='number of rows in a page')
+parser.add_argument('-s', '--seg', action='store_true', help='segregate each group onto separate pages')
+args = parser.parse_args()
+
+columns = int(args.col)
+depth = int(args.depth)
+mergeMini = args.mini
+mergeNeutral = args.neutral
+revisedCore = args.revised_core
+rows = int(args.row)
+segregate = args.seg
+
+# Hardwire ordering that's not explicitly in the data set
+corpTypes = ['identity', 'agenda', 'asset', 'operation', 'ice', 'upgrade']
+runnerTypes = ['identity', 'event', 'hardware', 'program', 'resource']
+miniFactions = ['apex', 'adam', 'sunny-lebeau']
 
 # Load in data
 dataDir = 'netrunner-cards-json'
@@ -113,8 +124,25 @@ for packFilename in packDirListing:
 
 factions = json.load(open(dataDir + '/factions.json'))
 
-# Merge mini factions together
+if not revisedCore:
+	cardsWithoutRevisedCore = []
+
+	for card in cards:
+		if card['pack_code'] != 'core2':
+			cardsWithoutRevisedCore.append(card)
+
+	cards = cardsWithoutRevisedCore
+	cardsWithoutRevisedCore = None
+
+# Label revised core cards unambiguously; group neutral factions; merge mini factions together
 for card in cards:
+	if card['pack_code'] == 'core2':
+		card['title'] = card['title'] + ' (revised core)'
+
+	if mergeNeutral:
+		if card['faction_code'] in ['neutral-runner', 'neutral-corp']:
+			card['faction_code'] = 'neutral'
+
 	for faction in factions:
 		if faction['code'] != card['faction_code']:
 			continue
@@ -132,9 +160,14 @@ for card in cards:
 				card['code'] = 'E' + card['code']
 
 			card['type_code'] = card['faction_code']
-			card['faction_code'] = 'mini'
+			card['side_code'] = 'runner_mini'
 
-index(True)
-index(False)
+			if mergeMini and mergeNeutral:
+				card['faction_code'] = 'neutral'
+			elif mergeMini:
+				card['faction_code'] = 'neutral-runner'
+			else:
+				card['faction_code'] = 'mini'
 
+index(segregate)
 exit()

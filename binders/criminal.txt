@@ -15,8 +15,8 @@ Page 2
 	Khan: Savvy Skiptracer
 	Los: Data Hijacker
 	Steve Cambridge: Master Grifter
-	Gabriel Santiago: Consummate Professional
 	419: Amoral Scammer
+	Liza Talking Thunder: Prominent Legislator
 	Account Siphon
 	Easy Mark
 	Forged Activation Orders
@@ -60,6 +60,7 @@ Page 5
 
 Page 6
 
+	Exclusive Party
 	Information Sifting
 	On the Lam
 	Exploit
@@ -68,130 +69,119 @@ Page 6
 	Leave No Trace
 	Rip Deal
 	Brute-Force-Hack
-	Spear Phishing
 
 Page 7
 
+	Spear Phishing
 	SYN Attack
-	Easy Mark
-	Emergency Shutdown
-	Forged Activation Orders
-	Inside Job
-	Special Order
 	Credit Kiting
 	Corporate "Grant"
 	Falsified Credentials
+	Embezzle
+	Diversion of Funds
+	Hot Pursuit
+	Lemuria Codecracker
 
 Page 8
 
-	Embezzle
-	Diversion of Funds
-	Lemuria Codecracker
 	Desperado
 	Cortez Chip
 	e3 Feedback Implants
 	Muresh Bodysuit
 	Doppelgänger
 	HQ Interface
-
-Page 9
-
 	Blackguard
 	Silencer
 	Logos
+
+Page 9
+
 	Public Terminal
 	Unregistered S&W '35
 	Window
 	Box-E
 	Autoscripter
 	Dorm Computer
-
-Page 10
-
 	Titanium Ribs
 	Forger
 	Reflection
+
+Page 10
+
+	Spy Camera
 	Spy Camera
 	GPI Net Tap
 	The Gauntlet
 	Recon Drone
 	Rubicon Switch
 	Māui
+	Polyhistor
+	Zamba
 
 Page 11
 
-	Polyhistor
-	Doppelgänger
-	HQ Interface
-	Zamba
+	Paragon
 	Aurora
 	Femme Fatale
 	Ninja
 	Sneakdoor Beta
 	Peacock
-
-Page 12
-
 	Snitch
 	Crescentus
 	Pheromones
+
+Page 12
+
 	Faerie
 	Gorman Drip v1
 	Copycat
 	Leviathan
 	Expert Schedule Analyzer
 	Garrote
-
-Page 13
-
 	Savoir-faire
 	Alias
 	Breach
+
+Page 13
+
 	Bug
 	Gingerbread
 	Grappling Hook
 	Passport
 	Cache
 	Switchblade
-
-Page 14
-
 	Cerberus "Rex" H2
 	Au Revoir
 	Spike
+
+Page 14
+
 	Crowbar
 	Shiv
 	Mongoose
 	Vamadeva
 	Golden
 	Peregrine
-
-Page 15
-
 	Saker
 	Tapwrm
 	Tracker
+
+Page 15
+
 	Flashbang
 	Aumakua
 	Abagnale
 	Lustig
 	Demara
 	Mammon
-
-Page 16
-
-	Aurora
-	Faerie
-	Femme Fatale
-	Peacock
-	Pheromones
-	Sneakdoor Beta
 	Puffer
 	Wari
 	Amina
 
-Page 17
+Page 16
 
+	Bankroll
+	Tycoon
 	Bank Job
 	Crash Space
 	Data Dealer
@@ -199,11 +189,11 @@ Page 17
 	Compromised Employee
 	Mr. Li
 	Grifter
+
+Page 17
+
 	Fall Guy
 	Security Testing
-
-Page 18
-
 	Theophilius Bagbiter
 	Tri-maf Contact
 	Power Tap
@@ -211,11 +201,11 @@ Page 18
 	Zona Sul Shipping
 	Enhanced Vision
 	Gang Sign
+
+Page 18
+
 	Muertos Gang Member
 	Drug Dealer
-
-Page 19
-
 	Rolodex
 	Tech Trader
 	Political Operative
@@ -223,26 +213,24 @@ Page 19
 	Hernando Cortez
 	Temüjin Contract
 	Blockade Runner
+
+Page 19
+
 	Aaron Marrón
 	Aeneas Informant
-
-Page 20
-
 	Rosetta 2.0
 	Bug Out Bag
 	Keros Mcintyre
 	Caldera
 	Charlatan
 	Maxwell James
-	Bank Job
-	Crash Space
-	Fall Guy
-
-Page 21
-
-	Mr. Li
 	Lewi Guilherme
+
+Page 20
+
 	No One Home
 	Rogue Trading
 	Slipstream
 	PAD Tap
+	Thunder Art Gallery
+	Miss Bones

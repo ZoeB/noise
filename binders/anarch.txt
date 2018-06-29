@@ -13,7 +13,6 @@ Page 1
 Page 2
 
 	Alice Merchant: Clan Agitator
-	Reina Roja: Freedom Fighter
 	Freedom Khumalo: Crypto-Anarchist
 	Nathaniel "Gnat" Hall: One-of-a-Kind
 	Déjà Vu
@@ -21,10 +20,10 @@ Page 2
 	Stimhack
 	Vamp
 	Surge
+	Retrieval Run
 
 Page 3
 
-	Retrieval Run
 	Frame Job
 	Quest Completed
 	Singularity
@@ -33,10 +32,10 @@ Page 3
 	Scrubbed
 	Inject
 	Amped Up
+	I've Had Worse
 
 Page 4
 
-	I've Had Worse
 	Itinerant Protesters
 	Showing Off
 	Wanton Destruction
@@ -45,15 +44,16 @@ Page 4
 	Knifed
 	Spooned
 	Hacktivist Meeting
+	Immolation Script
 
 Page 5
 
-	Immolation Script
 	Power to the People
 	Run Amok
 	Political Graffiti
 	Making an Entrance
 	The Noble Path
+	Fear the Masses
 	Fear the Masses
 	System Outage
 	Credit Crash
@@ -66,133 +66,120 @@ Page 6
 	Pushing the Envelope
 	Mars for Martians
 	Mining Accident
-	Demolition Run
-	Retrieval Run
-	Singularity
-
-Page 7
-
-	Stimhack
 	By Any Means
 	Glut Cipher
 	Contaminate
+
+Page 7
+
+	Divide and Conquer
 	Guinea Pig
 	Cyberfeeder
 	Grimoire
 	Spinal Modem
 	Deep Red
-
-Page 8
-
 	Dyson Fractal Generator
 	Ekomind
 	Archives Interface
+
+Page 8
+
 	Chop Bot 3000
 	MemStrips
 	Vigil
 	Skulljack
 	Turntable
 	Ramujan-reliant 550 BMI
+	Ramujan-reliant 550 BMI
+	EMP Device
+	Obelus
 
 Page 9
 
-	EMP Device
-	Obelus
 	Şifr
 	Maw
 	Severnius Stim Implant
 	Respirocytes
-	Cyberfeeder
-	Spinal Modem
 	Acacia
-
-Page 10
-
 	Friday Chip
 	Knobkierie
 	Zer0
 	Hippo
+
+Page 10
+
 	Patchwork
+	Hijacked Router
 	Corroder
 	Datasucker
 	Djinn
 	Medium
-
-Page 11
-
 	Mimic
 	Parasite
 	Wyrm
+
+Page 11
+
 	Yog.0
 	Imp
 	Morning Star
 	Nerve Agent
 	Disrupter
 	Force of Nature
-
-Page 12
-
 	Darwin
 	Pawn
 	Rook
+
+Page 12
+
 	Bishop
 	Scheherazade
 	Knight
 	Keyhole
 	Hemorrhage
 	Lamprey
-
-Page 13
-
 	D4v1d
 	BlacKat
 	Origami
+
+Page 13
+
 	Cerberus "Cuj.0" H3
 	Incubator
 	Ixodidae
 	Eater
 	Gravedigger
 	Hivemind
-
-Page 14
-
 	Progenitor
 	Clot
 	Faust
+
+Page 14
+
 	Trope
 	Surfer
 	Diwan
 	Aghora
 	Nfr
 	Paperclip
-
-Page 15
-
 	Black Orchestra
 	MKUltra
 	Sūnya
+
+Page 15
+
 	Berserker
 	Persephone
 	God of War
-	Darwin
-	Datasucker
-	Force of Nature
-
-Page 16
-
-	Imp
-	Hemorrhage
-	Mimic
-	Morning Star
 	Yusuf
 	Plague
 	eXer
 	Trypano
 	Musaazi
-
-Page 17
-
 	Cradle
+
+Page 16
+
 	Ice Carver
 	Wyldside
 	Liberated Account
@@ -201,10 +188,10 @@ Page 17
 	Xanadu
 	Data Leak Reversal
 	Hard at Work
-
-Page 18
-
 	Activist Support
+
+Page 17
+
 	Tallie Perrault
 	Duggar's
 	Fester
@@ -213,10 +200,10 @@ Page 18
 	Sacrificial Clone
 	Stim Dealer
 	Virus Breeding Ground
-
-Page 19
-
 	Paige Piper
+
+Page 18
+
 	Adjusted Chronotype
 	Off-Campus Apartment
 	Chrome Parlor
@@ -225,21 +212,15 @@ Page 19
 	DDoS
 	Street Magic
 	Salsette Slums
-
-Page 20
-
 	Emptied Mind
+
+Page 19
+
 	Bhagat
 	The Archivist
 	Clan Vengeance
 	Counter Surveillance
 	Jarogniew Mercs
 	Salvaged Vanadis Armory
-	Ice Carver
-	Liberated Account
-
-Page 21
-
-	Scrubber
-	Xanadu
 	Crypt
+	District 99

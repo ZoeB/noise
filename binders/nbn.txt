@@ -1,4 +1,4 @@
-Page 1 (identity)
+Page 1
 
 	NBN: Making News
 	NBN: The World is Yours*
@@ -10,14 +10,10 @@ Page 1 (identity)
 	Harishchandra Ent.: Where You're the Star
 	NBN: Controlling the Message
 
-Page 2 (identity)
+Page 2
 
-	NBN: Making News
 	Azmari EdTech: Shaping the Future
 	Acme Consulting: The Truth You Need
-
-Page 3 (agenda)
-
 	AstroScript Pilot Program
 	Breaking News
 	Restructured Datapool
@@ -25,11 +21,11 @@ Page 3 (agenda)
 	Character Assassination
 	TGTBT
 	Market Research
+
+Page 3
+
 	License Acquisition
 	Award Bait
-
-Page 4 (agenda)
-
 	Explode-a-palooza
 	15 Minutes
 	Improved Tracers
@@ -37,22 +33,21 @@ Page 4 (agenda)
 	Quantum Predictive Model
 	Remote Data Farm
 	Puppet Master
+
+Page 4
+
 	Net Quarantine
 	Escalate Vitriol
-
-Page 5 (agenda)
-
 	Reeducation
 	AR-Enhanced Security
-	Project Beale
-	TGTBT
 	Degree Mill
 	Better Citizen Program
-
-Page 6 (asset)
-
+	Fly on the Wall
 	Ghost Branch
 	Marked Accounts
+
+Page 5
+
 	Net Police
 	Jackson Howard
 	City Surveillance
@@ -60,11 +55,11 @@ Page 6 (asset)
 	Primary Transmission Dish
 	The News Now Hour
 	Reversed Accounts
-
-Page 7 (asset)
-
 	Daily Business Show
 	Blacklist
+
+Page 6
+
 	Exposé
 	Early Premiere
 	Franchise City
@@ -72,11 +67,11 @@ Page 7 (asset)
 	News Team
 	Shannon Claire
 	Victoria Jenkins
-
-Page 8 (asset)
-
 	Reality Threedee
 	Kala Ghoda Real TV
+
+Page 7
+
 	Sensie Actors Union
 	Aryabhata Tech
 	Full Immersion RecStudio
@@ -84,131 +79,118 @@ Page 8 (asset)
 	Watchdog
 	Alexa Belsky
 	Net Analytics
-
-Page 9 (asset)
-
 	CPC Generator
-	Ghost Branch
 	Echo Chamber
+
+Page 8
+
 	Personalized Portal
 	Amani Senai
-
-Page 10 (operation)
-
+	SIU
 	Anonymous Tip
 	Closed Accounts
 	Psychographics
 	SEA Source
 	Big Brother
 	Midseason Replacements
+
+Page 9
+
 	Invasion of Privacy
 	Shipment from SanSan
 	Sweeps Week
-
-Page 11 (operation)
-
 	Corporate Shuffle
 	Targeted Marketing
 	Manhunt
 	Shoot the Moon
 	Predictive Algorithm
 	Casting Call
+
+Page 10
+
 	24/7 News Cycle
 	Ad Blitz
 	Media Blitz
-
-Page 12 (operation)
-
 	The All-Seeing I
 	Surveillance Sweep
 	Salem's Hospitality
 	Exchange of Information
 	Hard-Hitting News
 	Hatchet Job
+
+Page 11
+
 	Special Report
 	Observe and Destroy
 	Service Outage
-
-Page 13 (operation)
-
 	MCA Informant
 	Biased Reporting
 	Rolling Brownout
 	Threat Level Alpha
-	Anonymous Tip
-	Closed Accounts
-	Psychographics
-	SEA Source
 	Self-Growth Program
-
-Page 14 (operation)
-
 	Threat Assessment
+
+Page 12
+
 	Standard Procedure
 	Market Forces
 	Eavesdrop
-
-Page 15 (ice)
-
+	Attitude Adjustment
 	Data Raven
 	Matrix Analyzer
 	Tollbooth
 	TMI
 	Pop-up Window
+
+Page 13
+
 	Uroboros
 	Data Hound
 	Flare
 	Muckraker
-
-Page 16 (ice)
-
 	Snoop
 	RSVP
 	Wraparound
 	Information Overload
 	Universal Connectivity Fee
+
+Page 14
+
 	Troll
 	Virgo
 	Bandwidth
 	Gutenberg
-
-Page 17 (ice)
-
 	Little Engine
 	Pachinko
 	Archangel
 	News Hound
 	Resistor
+
+Page 15
+
 	Special Offer
 	TL;DR
 	Turnpike
 	Interrupt 0
-
-Page 18 (ice)
-
 	Waiver
 	Data Ward
 	IP Block
 	Thoth
 	Herald
+
+Page 16
+
 	SYNC BRE
 	Free Lunch
 	Authenticator
 	Data Loop
-
-Page 19 (ice)
-
-	Data Raven
-	Flare
-	Pop-up Window
-	Tollbooth
-	Wraparound
 	Jua
 	Endless EULA
 	Sandman
+	Peeping Tom
 	Hydra
 
-Page 20 (upgrade)
+Page 17
 
 	Red Herrings
 	SanSan City Grid
@@ -220,14 +202,13 @@ Page 20 (upgrade)
 	Keegan Lane
 	Rutherford Grid
 
-Page 21 (upgrade)
+Page 18
 
 	Disposable HQ
 	Navi Mumbai City Grid
 	Drone Screen
 	Henry Phillips
 	Traffic Analyzer
-	Red Herrings
-	Bernice Mai
 	Calibration Testing
 	Intake
+	Arella Salvatore

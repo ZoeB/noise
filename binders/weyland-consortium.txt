@@ -1,4 +1,4 @@
-Page 1 (identity)
+Page 1
 
 	Weyland Consortium: Building a Better World
 	Weyland Consortium: Because We Built It
@@ -10,55 +10,46 @@ Page 1 (identity)
 	Weyland Consortium: Builder of Nations
 	Jemison Astronautics: Sacrifice. Audacity. Success.
 
-Page 2 (identity)
+Page 2
 
 	Skorpios Defense Systems: Persuasive Power
-	Weyland Consortium: Building a Better World
 	SSO Industries: Fueling Innovation
 	The Outfit: Family Owned and Operated
-
-Page 3 (agenda)
-
 	Hostile Takeover
 	Posted Bounty
 	Project Atlas
 	Government Contracts
 	Geothermal Fracking
 	The Cleaners
+
+Page 3
+
 	Vulcan Coverup
 	Superior Cyberwalls
 	Helium-3 Deposit
-
-Page 4 (agenda)
-
 	Firmware Updates
 	Glenn Station
 	Government Takeover
 	High-Risk Investment
 	Oaktown Renovation
 	Underway Renovation
+
+Page 4
+
 	Hollywood Renovation
 	New Construction
 	Crisis Management
-
-Page 5 (agenda)
-
 	Meteor Mining
 	Standoff
 	Armored Servers
 	Illicit Sales
 	Graft
-	Hostile Takeover
-	Project Atlas
-	The Cleaners
 	Armed Intimidation
 
-Page 6 (agenda)
+Page 5
 
 	City Works Project
-
-Page 7 (asset)
-
+	Broad Daylight
 	Security Subcontract
 	Dedicated Response Team
 	Elizabeth Mills
@@ -66,11 +57,11 @@ Page 7 (asset)
 	The Root
 	Sealed Vault
 	Executive Boot Camp
+
+Page 6
+
 	Constellation Protocol
 	Mark Yale
-
-Page 8 (asset)
-
 	Space Camp
 	The Board
 	Capital Investors
@@ -78,11 +69,11 @@ Page 8 (asset)
 	Corporate Town
 	Contract Killer
 	Worlds Plaza
+
+Page 7
+
 	Public Support
 	Mumbad Construction Co.
-
-Page 9 (asset)
-
 	Commercial Bankers Group
 	Mumbad City Hall
 	Executive Search Firm
@@ -90,27 +81,22 @@ Page 9 (asset)
 	Zealous Judge
 	C.I. Fund
 	Chief Slee
+
+Page 8
+
 	Anson Rose
 	Quarantine System
-
-Page 10 (asset)
-
 	Clyde Van Rite
 	Open Forum
 	Illegal Arms Factory
 	Mr. Stone
-	Dedicated Response Team
-	Elizabeth Mills
-	GRNDL Refinery
 	Urban Renewal
 	Reconstruction Contract
-
-Page 11 (asset)
-
 	False Flag
 
-Page 12 (operation)
+Page 9
 
+	Drudge Work
 	Aggressive Negotiation
 	Beanstalk Royalties
 	Scorched Earth
@@ -119,10 +105,10 @@ Page 12 (operation)
 	Commercialization
 	Oversight AI
 	Power Shutdown
+
+Page 10
+
 	Punitive Counterstrike
-
-Page 13 (operation)
-
 	Witness Tampering
 	Paywall Implementation
 	Reuse
@@ -131,10 +117,10 @@ Page 13 (operation)
 	Traffic Accident
 	Back Channels
 	Dedication Ceremony
+
+Page 11
+
 	Consulting Visit
-
-Page 14 (operation)
-
 	Election Day
 	Subcontract
 	Stock Buy-Back
@@ -143,101 +129,93 @@ Page 14 (operation)
 	Door to Door
 	Sacrifice
 	Audacity
+
+Page 12
+
 	Red Planet Couriers
-
-Page 15 (operation)
-
 	Success
 	Transparency Initiative
 	Priority Construction
 	Hunter Seeker
-	Beanstalk Royalties
-	Punitive Counterstrike
-	Shipment from Kaguya
 	Wake Up Call
 	Economic Warfare
-
-Page 16 (operation)
-
 	Death and Taxes
 	Trojan Horse
+
+Page 13
+
 	High-Profile Target
+	Building Blocks
 	Too Big to Fail
-
-Page 17 (ice)
-
+	Under the Bus
 	Archer
 	Hadrian's Wall
 	Ice Wall
 	Shadow
 	Caduceus
+
+Page 14
+
 	Woodcutter
 	Tyrant
 	Salvage
 	Burke Bugs
-
-Page 18 (ice)
-
 	Swarm
 	Ireress
 	Curtain Wall
 	Hive
 	Taurus
+
+Page 15
+
 	Wendigo
 	Changeling
 	Lycan
 	Errand Boy
-
-Page 19 (ice)
-
 	Asteroid Belt
 	Wormhole
 	Nebula
 	Orion
 	Builder
+
+Page 16
+
 	Checkpoint
 	Fire Wall
 	Searchlight
 	Negotiator
-
-Page 20 (ice)
-
 	Meru Mati
 	Spiderweb
 	Tour Guide
 	Bailiff
 	Red Tape
+
+Page 17
+
 	Bulwark
 	Mausolus
 	Sapper
 	Veritas
-
-Page 21 (ice)
-
 	Watchtower
 	Battlement
 	Tithonium
 	Bloodletter
 	Colossus
+
+Page 18
+
 	Hailstorm
 	Hortum
-	Archer
-	Caduceus
-
-Page 22 (ice)
-
-	Hadrian's Wall
-	Hive
-	Ice Wall
-	Shadow
 	Oduduwa
 	Masvingo
 	Surveyor
-
-Page 23 (upgrade)
-
+	Blockchain
+	Formicary
 	Research Station
 	Amazon Industrial Zone
+
+Page 19
+
 	Simone Diego
 	Off the Grid
 	Crisium Grid
@@ -245,11 +223,11 @@ Page 23 (upgrade)
 	The Twins
 	Expo Grid
 	Surat City Grid
-
-Page 24 (upgrade)
-
 	Bryan Stinson
 	Oberth Protocol
+
+Page 20
+
 	Fractal Threat Matrix
 	K. P. Lynn
 	Forced Connection

@@ -14,17 +14,16 @@ Page 2
 
 	Jinteki: Potential Unleashed
 	AgInfusion: New Miracles for a New World
-	Jinteki: Personal Evolution
 	Mti Mwekundu: Life Improved
 	Saraswati Mnemonics: Endless Exploration
 	Nisei MK II
 	Braintrust
 	Fetal AI
 	Clone Retirement
+	Unorthodox Predictions
 
 Page 3
 
-	Unorthodox Predictions
 	House of Knives
 	Medical Breakthrough
 	Philotic Entanglement
@@ -33,105 +32,95 @@ Page 3
 	Labyrinthine Servers
 	Genetic Resequencing
 	Ancestral Imager
+	Dedicated Neural Net
 
 Page 4
 
-	Dedicated Neural Net
 	Improved Protein Source
 	Project Kusanagi
 	Obokata Protocol
 	Mandatory Seed Replacement
 	Water Monopoly
-	Braintrust
-	Nisei MK II
 	Bacterial Programming
-
-Page 5
-
 	Viral Weaponization
 	Jumon
 	Project Junebug
+
+Page 5
+
 	Snare!
 	Zaibatsu Loyalty
 	Edge of World
 	Dedicated Server
 	Ronin
 	Sundew
-
-Page 6
-
 	Shock!
 	Toshiyuki Sakai
 	Chairman Hiro
+
+Page 6
+
 	Mental Health Clinic
 	Psychic Field
 	Shi.Kyū
 	Tenma Line
 	Hostile Infrastructure
 	Turtlebacks
-
-Page 7
-
 	Allele Repression
 	Genetics Pavilion
 	Pālanā Agroplex
+
+Page 7
+
 	Bio-Ethics Association
 	Political Dealings
 	Raman Rai
 	Hyoubu Research Facility
 	Fumiko Yamamori
 	Synth DNA Modification
+	Breached Dome
+	Gene Splicer
+	API-S Keeper Isobel
 
 Page 8
 
-	Breached Dome
-	Project Junebug
-	Ronin
-	Snare!
-	Gene Splicer
-	API-S Keeper Isobel
+	Neurostasis
 	Neural EMP
 	Precognition
 	Trick of Light
-
-Page 9
-
 	Sunset
 	Celebrity Gift
 	Restoring Face
 	Cerebral Cast
 	Medical Research Fundraiser
+
+Page 9
+
 	Mushin No Shin
 	Mutate
 	Cerebral Static
 	Recruiting Trip
-
-Page 10
-
 	An Offer You Can't Refuse
 	Heritage Committee
 	"Clones are not People"
 	Voter Intimidation
 	Enforcing Loyalty
+
+Page 10
+
 	Hasty Relocation
 	Psychokinesis
 	Replanting
 	Shipment from Tennin
-
-Page 11
-
-	Celebrity Gift
-	Neural EMP
-	Trick of Light
 	Genotyping
 	Reverse Infection
 	Hangeki
 	Cell Portal
 	Chum
+
+Page 11
+
 	Data Mine
-
-Page 12
-
 	Neural Katana
 	Wall of Thorns
 	Snowflake
@@ -140,10 +129,10 @@ Page 12
 	Whirlpool
 	Himitsu-Bako
 	Swordsman
+
+Page 12
+
 	Tsurugi
-
-Page 13
-
 	Yagura
 	Shinobi
 	Marker
@@ -152,10 +141,10 @@ Page 13
 	Pup
 	Shiro
 	Susanoo-no-Mikoto
+
+Page 13
+
 	Lotus Field
-
-Page 14
-
 	Kitsune
 	Ashigaru
 	Mamba
@@ -164,10 +153,10 @@ Page 14
 	Crick
 	Clairvoyant Monitor
 	Lockdown
+
+Page 14
+
 	It's a Trap!
-
-Page 15
-
 	Harvester
 	Upayoga
 	Chetana
@@ -176,50 +165,46 @@ Page 15
 	DNA Tracker
 	Mind Game
 	Chiyashi
+
+Page 15
+
 	Kakugo
-
-Page 16
-
 	Bloom
 	Mirāju
 	Metamorph
 	Sand Storm
-	Himitsu-Bako
-	Neural Katana
-	Swordsman
-	Wall of Thorns
-	Whirlpool
-
-Page 17
-
-	Yagura
 	Mganga
 	Aimor
 	Anansi
 	Sadaka
+
+Page 16
+
 	Envelope
 	Mlinzi
+	Otoroshi
+	Thimblerig
 	Akitaro Watanabe
 	Hokusai Grid
-
-Page 18
-
 	Midori
 	Caprice Nisei
 	NeoTokyo Grid
+
+Page 17
+
 	Tori Hanzō
 	Port Anson Grid
 	Valley Grid
 	Marcus Batty
 	Mumbad City Grid
 	Georgia Emelyov
-
-Page 19
-
 	Nihongai Grid
 	Bamboo Dome
 	Ben Musashi
-	Hokusai Grid
+
+Page 18
+
 	Code Replicator
 	Bio Vault
 	Mwanza City Grid
+	Daruma

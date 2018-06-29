@@ -1,0 +1,295 @@
+Page 1
+
+	Apex: Invasive Predator
+	Apocalypse
+	Prey
+	Reboot
+	Heartbeat
+	Endless Hunger
+	Harbinger
+	Reaver
+	Consume
+
+Page 2
+
+	Hunting Grounds
+	Wasteland
+	Assimilator
+	Adam: Compulsive Hacker
+	Independent Thinking
+	Emergent Creativity
+	Brain Chip
+	Multithreader
+	Algernon
+
+Page 3
+
+	Always Be Running
+	Dr. Lovegood
+	Neutralize All Threats
+	Safety First
+	Find the Truth
+	Logic Bomb
+	Sunny Lebeau: Security Specialist
+	Another Day, Another Paycheck
+	White Hat
+
+Page 4
+
+	Black Hat
+	Office Supplies
+	Security Chip
+	Security Nexus
+	GS Striker M1
+	GS Shrike M2
+	GS Sherman M3
+	Globalsec Security Clearance
+	Jak Sinclair
+
+Page 1
+
+	Infiltration
+	Sure Gamble
+	Kraken
+	Dirty Laundry
+	Blackmail
+	Lucky Find
+	Mass Install
+	Uninstall
+	Traffic Jam
+
+Page 2
+
+	Employee Strike
+	Windfall
+	Corporate Scandal
+	Populist Rally
+	"Freedom Through Equality"
+	Rebirth
+	Rigged Results
+	Deuces Wild
+	Injection Attack
+
+Page 3
+
+	Government Investigations
+	Interdiction
+	Peace in Our Time
+	Mad Dash
+	Build Script
+	Process Automation
+	Plascrete Carapace
+	Dyson Mem Chip
+	Prepaid VoicePAD
+
+Page 4
+
+	Q-Coherence Chip
+	Qianju PT
+	Brain Cage
+	Sports Hopper
+	Crypsis
+	Overmind
+	Baba Yaga
+	RNG Key
+	Access to Globalsec
+
+Page 5
+
+	Armitage Codebusting
+	Public Sympathy
+	Inside Man
+	Underworld Contact
+	Kati Jones
+	New Angeles City Hall
+	Daily Casts
+	Same Old Thing
+	The Source
+
+Page 6
+
+	John Masanori
+	Raymond Flint
+	Starlight Crusade Funding
+	Oracle May
+	Donut Taganes
+	Eden Shard
+	Ghost Runner
+	Hades Shard
+	Rachel Beckman
+
+Page 7
+
+	Angel Arena
+	Utopia Shard
+	Earthrise Hotel
+	Data Folding
+	Symmetrical Visage
+	Beach Party
+	Paparazzi
+	Wireless Net Pavilion
+	Technical Writer
+
+Page 8
+
+	Chatterjee University
+	Akshara Sareen
+	Councilman
+	Bazaar
+	Guru Davinder
+	The Turning Wheel
+	First Responders
+	Citadel Sanctuary
+	Dadiana Chacon
+
+Page 9
+
+	Bloo Moose
+	Corporate Defector
+	Officer Frank
+	Dean Lister
+	Biometric Spoofing
+	The Shadow Net
+	Jackpot!
+	Kasi String
+	DJ Fenris
+
+Page 1
+
+	Priority Requisition
+	Private Security Force
+	Executive Retreat
+	False Lead
+	Corporate War
+	Gila Hands Arcology
+	Profiteering
+	Veterans Program
+	NAPD Contract
+
+Page 2
+
+	Eden Fragment
+	Chronos Project
+	Hades Fragment
+	Utopia Fragment
+	Vanity Project
+	The Future is Now
+	Global Food Initiative
+	Corporate Sales Team
+	Merger
+
+Page 3
+
+	Show of Force
+	Paper Trail
+	SSL Endorsement
+	Melange Mining Corp.
+	PAD Campaign
+	Private Contracts
+	Levy University
+	Server Diagnostics
+	Plan B
+
+Page 4
+
+	Shattered Remains
+	Docklands Crackdown
+	Tech Startup
+	Launch Campaign
+	Mumba Temple
+	Museum of History
+	PAD Factory
+	Sandburg
+	NASX
+
+Page 5
+
+	Whampoa Reclamation
+	Honeyfarm
+	Long-Term Investment
+	NGO Front
+	TechnoCo
+	Rashida Jaheem
+	Lady Liberty
+	Hedge Fund
+	Freelancer
+
+Page 6
+
+	Foxfire
+	Cyberdex Trial
+	Restructure
+	Interns
+	Subliminal Messaging
+	Diversified Portfolio
+	Fast Track
+	Bad Times
+	Lag Time
+
+Page 7
+
+	Snatch and Grab
+	Sub Boost
+	Localized Product Line
+	Financial Collapse
+	Scarcity of Resources
+	Best Defense
+	Preemptive Action
+	Enforced Curfew
+	Mass Commercialization
+
+Page 8
+
+	Rover Algorithm
+	IPO
+	Distract the Masses
+	Enigma
+	Hunter
+	Wall of Static
+	Dracō
+	Chimera
+	Bastion
+
+Page 9
+
+	Datapike
+	Grim
+	Paper Wall
+	Quandary
+	Guard
+	Rainbow
+	Mother Goddess
+	Galahad
+	Lancelot
+
+Page 10
+
+	Merlin
+	Excalibur
+	Quicksand
+	Assassin
+	Cobra
+	Vanilla
+	Macrophage
+	Tribunal
+	Self-Adapting Code Wall
+
+Page 11
+
+	Owl
+	Conundrum
+	Weir
+	Will-o'-the-Wisp
+	Shell Corporation
+	Self-destruct
+	Dedicated Technician Team
+	Cyberdex Virus Suite
+	Breaker Bay Grid
+
+Page 12
+
+	Underway Grid
+	Mumbad Virtual Tour
+	Prisec
+	Khondi Plaza
+	Signal Jamming

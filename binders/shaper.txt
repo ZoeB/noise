@@ -13,7 +13,6 @@ Page 1
 Page 2
 
 	Ayla "Bios" Rahim: Simulant Specialist
-	Chaos Theory: Wünderkind
 	Kabonesa Wu: Netspace Thrillseeker
 	Akiko Nisei: Head Case
 	Diesel
@@ -21,10 +20,10 @@ Page 2
 	The Maker's Eye
 	Tinkering
 	Notoriety
+	Test Run
 
 Page 3
 
-	Test Run
 	Quality Time
 	Indexing
 	Escher
@@ -33,15 +32,16 @@ Page 3
 	Scavenge
 	Levy AR Lab Access
 	Eureka!
+	Power Nap
 
 Page 4
 
-	Power Nap
 	Social Engineering
 	Net Celebrity
 	Trade-In
 	Code Siphon
 	Game Day
+	Out of the Ashes
 	Out of the Ashes
 	The Price of Freedom
 	Data Breach
@@ -56,82 +56,72 @@ Page 5
 	Reshape
 	Careful Planning
 	Deep Data Mining
-	Diesel
+	Marathon
 
 Page 6
 
-	Indexing
-	Modded
-	Notoriety
-	Test Run
-	The Maker's Eye
-	Tinkering
-	Marathon
 	Because I Can
 	Compile
-
-Page 7
-
+	Insight
 	Akamatsu Mem Chip
 	Rabbit Hole
 	The Personal Touch
 	The Toolbox
 	Dinosaurus
 	Replicator
+
+Page 7
+
 	R&D Interface
 	Monolith
 	Feedback Filter
-
-Page 8
-
 	Clone Chip
 	Omni-drive
 	Lockpick
 	Record Reconstructor
 	LLDS Processor
 	Capstone
+
+Page 8
+
 	CyberSolutions Mem Chip
 	Astrolabe
 	Cybsoft MacroDrive
-
-Page 9
-
 	Comet
 	Net-Ready Eyes
 	Bookmark
 	Maya
 	NetChip
+	NetChip
+
+Page 9
+
 	Mirror
 	Top Hat
 	Adjusted Matrix
 	Dedicated Processor
-
-Page 10
-
 	Daredevil
 	LLDS Memory Diamond
 	Ubax
-	Dinosaurus
-	Rabbit Hole
-	The Personal Touch
 	Cyberdelia
 	Gebrselassie
+
+Page 10
+
 	Flame-out
-
-Page 11
-
 	Mind's Eye
+	Mâché
 	Battering Ram
 	Gordian Blade
 	Magnum Opus
 	Net Shield
 	Pipeline
 	ZU.13 Key Master
+
+Page 11
+
 	Snowball
 	Deus X
-
-Page 12
-
 	Creeper
 	Deep Thought
 	Atman
@@ -139,11 +129,11 @@ Page 12
 	Dagger
 	Chakana
 	Cyber-Cypher
+
+Page 12
+
 	Paricia
 	Self-modifying Code
-
-Page 13
-
 	Sahasrara
 	Inti
 	False Echo
@@ -151,11 +141,11 @@ Page 13
 	Sharpshooter
 	Alpha
 	Omega
+
+Page 13
+
 	Paintbrush
 	Leprechaun
-
-Page 14
-
 	LLDS Energy Regulator
 	Refractor
 	Cerberus "Lady" H1
@@ -163,11 +153,11 @@ Page 14
 	Sage
 	Study Guide
 	Analog Dreamers
+
+Page 14
+
 	Chameleon
 	Hyperdriver
-
-Page 15
-
 	DaVinci
 	Panchatantra
 	Sadyojata
@@ -175,11 +165,11 @@ Page 15
 	Ankusa
 	Dai V
 	Houdini
+
+Page 15
+
 	Blackstone
 	Equivocation
-
-Page 16
-
 	Misdirection
 	Fawkes
 	Customized Secretary
@@ -187,25 +177,23 @@ Page 16
 	Mass-Driver
 	Maven
 	Na'Not'K
+
+Page 16
+
 	Adept
 	Savant
-
-Page 17
-
 	Egret
 	Dhegdheer
-	Battering Ram
-	Gordian Blade
-	Magnum Opus
-	Pipeline
 	Upya
 	Takobi
 	Nyashia
-
-Page 18
-
 	Laamb
 	Engolo
+
+Page 17
+
+	Ika
+	Kyuban
 	Aesop's Pawnshop
 	Sacrificial Construct
 	The Helpful AI
@@ -214,7 +202,7 @@ Page 18
 	Professional Contacts
 	Borrowed Satellite
 
-Page 19
+Page 18
 
 	Ice Analyzer
 	Motivation
@@ -226,7 +214,7 @@ Page 19
 	Tyson Observatory
 	Fan Site
 
-Page 20
+Page 19
 
 	Film Critic
 	Artist Colony
@@ -238,19 +226,13 @@ Page 20
 	Net Mercur
 	Bio-Modeled Network
 
-Page 21
+Page 20
 
 	Network Exchange
 	Dummy Box
 	Levy Advanced Research Lab
 	Laguna Velasco District
-	Aesop's Pawnshop
-	All-nighter
-	Sacrificial Construct
 	Kongamato
 	Gbahali
-
-Page 22
-
 	Reclaim
 	Psych Mike
